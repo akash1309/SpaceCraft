@@ -5,7 +5,7 @@ cached-property==1.5.1
 cffi==1.12.3
 cloudpickle==1.2.2
 constantly==15.1.0
-cryptography==2.7
+cryptography==3.2
 cssselect==1.0.3
 easygui==0.98.1
 future==0.18.2
